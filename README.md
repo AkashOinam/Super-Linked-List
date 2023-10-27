@@ -24,12 +24,12 @@ Welcome to this repository! This program is a menu-driven C application that all
      
    - Searching: Find a node with a specific value in the linked list.
 
-### Prerequisites:
+## Prerequisites:
 1. Make sure you have Visual Studio Code installed.
 2. Install the C/C++ extension by Microsoft from the VS Code Marketplace.
 3. Ensure you have a C compiler like GCC installed on your system.
 
-### How to Run:
+## How to Run:
 
 1. **Open VS Code**:
    - Launch Visual Studio Code.

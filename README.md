@@ -1,3 +1,4 @@
+
 # Linked List Operations in C
 
 Welcome to this repository! This program is a menu-driven C application that allows users to perform operations on different types of linked lists.
@@ -8,17 +9,26 @@ Welcome to this repository! This program is a menu-driven C application that all
    - Singly Linked List
    - Doubly Linked List
    - Circular Linked List
-   
+
 2. Operations Supported:
-   - Insertion: Add a new node to the linked list.
-   - Deletion: Remove a node from the linked list.
+   
+   - Insertion:
+     - Beginning of the list
+     - End of the list
+     - Specified position in the list
+
+   - Deletion:
+     - Beginning of the list
+     - End of the list
+     - Specified position in the list
+     
    - Searching: Find a node with a specific value in the linked list.
 
 ## How to Run
 
 1. Clone this repository.
 bash
-git clone [Your Repository URL]
+git clone https://github.com/Cashless111/Super-Linked-List
 
 
 2. Navigate to the directory.
@@ -28,7 +38,7 @@ cd [Your Directory Name]
 
 3. Compile the program.
 bash
-gcc [Your C Program File Name].c -o output
+gcc SuperLL.c -o output
 
 
 4. Run the program.
@@ -44,4 +54,4 @@ If you find any bugs or have suggestions for improvements, please open an issue 
 
 ---
 
-Modify the placeholders like "[Your Repository URL]", "[Your Directory Name]", and "[Your C Program File Name]" with your specific details.
+Again, be sure to replace the placeholders with your specific details.
